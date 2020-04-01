@@ -11,9 +11,10 @@ main = hakyll $ do
         route   idRoute
         compile copyFileCompiler
 
-   {- match "css/*" $ do
+    match "static/*" $ do
         route   idRoute
-        compile compressCssCompiler -}
+        compile copyFileCompiler
+
     match "css/*" $ compile compressCssCompiler
     create ["style.css"] $ do
         route idRoute
