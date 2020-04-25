@@ -1,20 +1,17 @@
 body, html {
-    width: 100%;
+    width: 80%;
     height: 100%;
 }
 html {
  min-height:100%;
  position:relative
-    background-color: #fff;
-    font-size: 16px;
-    font-family: sans-serif;
-    line-height: 24px;
+ background-color: #fff;
+ font-family: sans-serif;
+ line-height: 24px;
 }
 body {
  color: #333;
- font-size:16px;
- margin:0px;
- padding: 0;
+ font-size: 16px;
 }
 h1, h2, h3 {
     margin: 0px 0px 18px 0px;
@@ -96,11 +93,12 @@ aside div img{
 aside div nav ul li{
     display: block;
     text-transform: lowercase;
+ margin: 2px 2px 2px 2px;
 }
 
 footer {
- color:#999999;
- font-size:12px;
+ color:#555555;
+ font-size:14px;
  text-align:center;
  height:4em;
  width:100%;
@@ -112,7 +110,7 @@ footer a{
     color: #111111;
     font-weight: bold;
 }
-div#content {
+body div#content {
     padding-left: 4%;
 }
 main a{
