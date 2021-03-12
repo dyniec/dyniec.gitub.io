@@ -15,7 +15,7 @@ I was born in 1995, and spent most of my life in Wrocław, Poland.
 You can reach me by using:
 
 * email: pawel at dybiec.info
-* matrix: @dyniec:matrix.org
+* matrix: \@dyniec:matrix.org
 
 ## PGP key
 Fingerprint: [D981 E3D6 24C1 1C20 B04F  CD2B 2397 F066 368B 6FD9](static/dyniec.asc)
