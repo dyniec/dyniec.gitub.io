@@ -3,16 +3,16 @@ title: About me
 ---
 ## Who I am
 Hi! My name is Paweł Dybiec.
-I was born in 1995, and spent most of my life in Wrocław, Poland.
+I was born in 1995, and spent most of my life in Wrocław, Poland. I currenlty live in Dublin.
 
-* enjoys functional programming
+* functional programming fan
 * operating systems enthusiast
 * still haven't finished my master's degree in Computer Science at [University of Wrocław](http://ii.uni.wroc.pl/)
 * PE at facebook
 
 ## Projects
 * [Continuum Science Club](http://continuum.uni.wroc.pl/) - Prototype of "mars" rover
-* [Pizza contest](https://contest.pizza/) 
+* [Pizza contest](https://contest.pizza/) - Competition of computer bots on virtual arena
 
 ## Contact
 You can reach me by using:
