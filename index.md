@@ -2,7 +2,9 @@
 title: About me
 ---
 ## > whoami
-Hi! I’m Paweł. I’m 28 and I have spent most of my life in Wrocław, Poland. Since 2020 living in Dublin, Ireland.
+Hi! I'm Paweł(he/him). I'm 28 and I have spent most of my life in Wrocław, Poland. Since 2020 living in Dublin, Ireland. 
+In free time I work with Haskell, Nix and Rust. 
+In my work I deal with highly distributed systems that make sure our server fleet is in a good shape.
 
 * functional programming fan
 * operating systems enthusiast
