@@ -11,5 +11,5 @@ homepage:           https://git.dybiec.info/website
 executable site
   main-is:          site.hs
   build-depends:    base == 4.*
-                  , hakyll == 4.16.*
+                  , hakyll >= 4.15
   ghc-options:      -threaded
